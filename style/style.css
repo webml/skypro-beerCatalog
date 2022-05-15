@@ -176,9 +176,6 @@
 
 .card__img {
   height: 320px;
-  border-radius: 16px;
-  -webkit-box-shadow: 0 0 16px lightgray;
-          box-shadow: 0 0 16px lightgray;
   display: block;
   margin: 0 auto;
 }
